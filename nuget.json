@@ -407,10 +407,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/jetbrains.annotations/2021.2.0/jetbrains.annotations.2021.2.0.nupkg",
-        "sha512": "e4f1e8a7a6890b2116a2a5b4483346e1bdd0ac7b30d67b5c026b8596c5150a86868bb2d3eaca22d0e22e80dbcfeeedae755ec1c29258c8895acfc3f9710517c5",
+        "url": "https://api.nuget.org/v3-flatcontainer/jetbrains.annotations/2021.3.0/jetbrains.annotations.2021.3.0.nupkg",
+        "sha512": "3cbd5386be781050e1ab4a54f34f6d8e7a4571db928504724f0c1c66733e8a0b7e4ef017ec6e78b94e0e715f63bc3438ac218dfb94df884381dbab51ff18e325",
         "dest": "nuget-sources",
-        "dest-filename": "jetbrains.annotations.2021.2.0.nupkg"
+        "dest-filename": "jetbrains.annotations.2021.3.0.nupkg"
     },
     {
         "type": "file",
@@ -463,73 +463,73 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.connections.abstractions/5.0.10/microsoft.aspnetcore.connections.abstractions.5.0.10.nupkg",
-        "sha512": "0a14e04e41170669c35b2aa51ab9f709a4a8c217bbd8da03059e600f3c55e1b5877b7294b7b9807d34ee3bc021b4c6d6b5c2d954a4df52f686ce824c8f18127a",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.connections.abstractions/5.0.11/microsoft.aspnetcore.connections.abstractions.5.0.11.nupkg",
+        "sha512": "07dcc6eb226b768c6fa52aa59e2d16370a0adc9517a38d5044adf6cfd4721cb1db98b57224bbe898f25f6930ec2e0eff8e8be58819785cf566c5d73daae9407e",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.connections.abstractions.5.0.10.nupkg"
+        "dest-filename": "microsoft.aspnetcore.connections.abstractions.5.0.11.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.connections.client/5.0.10/microsoft.aspnetcore.http.connections.client.5.0.10.nupkg",
-        "sha512": "591b429e6b410e7d638320893a60cb72454b13645ed6e7d778c6b9d185fb5f7eff7be7b5d6f233f0756f8ebb3ddadace4eb08b45017b69a049d501b29c31a275",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.connections.client/5.0.11/microsoft.aspnetcore.http.connections.client.5.0.11.nupkg",
+        "sha512": "a923ea151d9df36fd61922ad59e2c370cd437a5bb883ee54fd22e17422e95eb5e1ab0cb408e818ee5d20a0edd63b30baebd07fb3dddd2518f0ee65da9052f4c0",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.http.connections.client.5.0.10.nupkg"
+        "dest-filename": "microsoft.aspnetcore.http.connections.client.5.0.11.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.connections.common/5.0.10/microsoft.aspnetcore.http.connections.common.5.0.10.nupkg",
-        "sha512": "2aa3798282eb6035e16b0b7d26222e0924a10e1c6aa3284597bf40fe1495bb81b246d63ba986b9b5816aa3e8c47e678e4acf10a920fcac83af41c0b90018df87",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.connections.common/5.0.11/microsoft.aspnetcore.http.connections.common.5.0.11.nupkg",
+        "sha512": "f308d12c811b918cd8df95400a0ab00f999940ce22f286498296fc4995fb7cc7c2bab363aab95cb8b2cddc267308602ef2d17e0e0ee41f547a735aa3853c6e2c",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.http.connections.common.5.0.10.nupkg"
+        "dest-filename": "microsoft.aspnetcore.http.connections.common.5.0.11.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.features/5.0.10/microsoft.aspnetcore.http.features.5.0.10.nupkg",
-        "sha512": "b713f168187cb7f0307e7856e3fb12f338b152ed217655b41b9a822b5a0445f34ac5d3081d427d8a489b58efd5669c7d89aaf065e4ad10ad650fa46d1896f924",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.http.features/5.0.11/microsoft.aspnetcore.http.features.5.0.11.nupkg",
+        "sha512": "548b0676b6b7eb158b2fffc8e16843f7fb6305f9f109d3dcd769b1e0aeb84c2bf7afb5551a2afa1ee79c1cc8fcb951e542090669d876a1b5bd7d3c60c5d5ca2d",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.http.features.5.0.10.nupkg"
+        "dest-filename": "microsoft.aspnetcore.http.features.5.0.11.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.signalr.client/5.0.10/microsoft.aspnetcore.signalr.client.5.0.10.nupkg",
-        "sha512": "37ade26ccd83111f72243fcd3492a0e74d233403fc40921826494ad1317238ff681541adb066e61a305f53153a6f50f5e4b1e0610446f9e5f8a7d7c6c9077a16",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.signalr.client/5.0.11/microsoft.aspnetcore.signalr.client.5.0.11.nupkg",
+        "sha512": "d98460e280cc9c8349f9e3b0bee323ffd7f7510512c6e6f5a9506f57c86632c2614280f9054db4ce6e8696d53fbf69c2a595987dda683729572387e1b7050c96",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.signalr.client.5.0.10.nupkg"
+        "dest-filename": "microsoft.aspnetcore.signalr.client.5.0.11.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.signalr.client.core/5.0.10/microsoft.aspnetcore.signalr.client.core.5.0.10.nupkg",
-        "sha512": "71204ce4bb4b5d6ea9e40971810adef076f052bea340bdfe9fb7a282714fa2cc34a34fc5e7f41777d110af334886301d7246ac171323bac3c212a38e6d4a2146",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.signalr.client.core/5.0.11/microsoft.aspnetcore.signalr.client.core.5.0.11.nupkg",
+        "sha512": "17526f623d1e3a4bfa2bd10937a0598f974edcb8cc6be676048cb5c5cecce4dfc58572a3b923dd1684e42bd2627b69ed234068a32c6148adb56c473829383c4d",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.signalr.client.core.5.0.10.nupkg"
+        "dest-filename": "microsoft.aspnetcore.signalr.client.core.5.0.11.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.signalr.common/5.0.10/microsoft.aspnetcore.signalr.common.5.0.10.nupkg",
-        "sha512": "577fd61bec035200aec8527549185c3be7f432e984c016bb9ca44987f693937479dbaf3b41821f09fdc656cc78aedf3cac19f05d30a52401749cd618e24bf194",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.signalr.common/5.0.11/microsoft.aspnetcore.signalr.common.5.0.11.nupkg",
+        "sha512": "f6b3920d58445db41947e223ae3db0f0898beb1fb249f533ed4751f2e87d36d5d3acf4663e997239bd9d3a2ca81d7f356e709525662e304c5b4702d38ab1da29",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.signalr.common.5.0.10.nupkg"
+        "dest-filename": "microsoft.aspnetcore.signalr.common.5.0.11.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.signalr.protocols.json/5.0.10/microsoft.aspnetcore.signalr.protocols.json.5.0.10.nupkg",
-        "sha512": "d317e62ebbb45bff57534d2d0dc2fafbc297e50b9e07ff330a494eddc37910c7ffea925984a57846ee807ef2c95103c31f2421b8b539be7de066ba90f2017c49",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.signalr.protocols.json/5.0.11/microsoft.aspnetcore.signalr.protocols.json.5.0.11.nupkg",
+        "sha512": "4bb6d4fd6c961aeb9b24b4c4708c986729d0344cd62beb36ab13789d07307c50d4058c3388160eb13aef055ee35df5c7d1c834ade97ce6a5e4cefeed3d4707f5",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.signalr.protocols.json.5.0.10.nupkg"
+        "dest-filename": "microsoft.aspnetcore.signalr.protocols.json.5.0.11.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.signalr.protocols.messagepack/5.0.10/microsoft.aspnetcore.signalr.protocols.messagepack.5.0.10.nupkg",
-        "sha512": "73189856fa233c47447da328fc9edbf1649cc10e89e36cb483072d16a91f631589df1511960e4aa548d633f65239431023dd8faa5da5bcaf8991518af1a244ae",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.signalr.protocols.messagepack/5.0.11/microsoft.aspnetcore.signalr.protocols.messagepack.5.0.11.nupkg",
+        "sha512": "d6994464cb13fbeebb4364234072a46d50bedf119a14fafe63c254d6bea7d359410062e631eb7656f50df92c1b77a0817f685c903e1694ecb369ea809f494ab9",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.signalr.protocols.messagepack.5.0.10.nupkg"
+        "dest-filename": "microsoft.aspnetcore.signalr.protocols.messagepack.5.0.11.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.signalr.protocols.newtonsoftjson/5.0.10/microsoft.aspnetcore.signalr.protocols.newtonsoftjson.5.0.10.nupkg",
-        "sha512": "6d601d73b210409577149cf72cfbe6adaa932d1fc821622bf1edc74e1278c2854fe89cab78429bdd6462dea7ab54e5fc616e4bc22d62803da2f34c8b4be7160d",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.signalr.protocols.newtonsoftjson/5.0.11/microsoft.aspnetcore.signalr.protocols.newtonsoftjson.5.0.11.nupkg",
+        "sha512": "31cb19c9e12c41a4b0c4f1f6128f012d1c9eb04bd3e22db363d50d3db503410cdc06596a4e3b2624c88b23ed722948eed509fd50c17f49e024e5ed3f2e88f042",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.signalr.protocols.newtonsoftjson.5.0.10.nupkg"
+        "dest-filename": "microsoft.aspnetcore.signalr.protocols.newtonsoftjson.5.0.11.nupkg"
     },
     {
         "type": "file",
@@ -575,10 +575,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.bannedapianalyzers/3.3.2/microsoft.codeanalysis.bannedapianalyzers.3.3.2.nupkg",
-        "sha512": "dc2bf07ecdf82fc7da044121ea98c99700e7b0ef62c58d7eaa36cb1c9c285e36f96e4dbecd3d84a42de4fec04198ec5fb8231069de227dd92dff856ab38d5548",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.bannedapianalyzers/3.3.3/microsoft.codeanalysis.bannedapianalyzers.3.3.3.nupkg",
+        "sha512": "02a4ffcdc5f33c9f2952d5a8d399b33611e00c387476ba1768c8c41cf3a778ec0ee0c60af2e87ab6a678320f4b7444aa20e6966158a4d5b9cca945cf637c06db",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.codeanalysis.bannedapianalyzers.3.3.2.nupkg"
+        "dest-filename": "microsoft.codeanalysis.bannedapianalyzers.3.3.3.nupkg"
     },
     {
         "type": "file",
@@ -1107,8 +1107,8 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/ppy.osu.framework/2021.1026.0/ppy.osu.framework.2021.1026.0.nupkg",
-        "sha512": "2e9540d930d7c8f681bd9a7533f714133c45a31b1418840a47722b08837677d9f3000b1722e5b59191e2964236595e8680d0f0cf7b0fda80a7fa185eea3686d3",
+        "url": "https://api.nuget.org/v3-flatcontainer/ppy.osu.framework/2021.1108.0/ppy.osu.framework.2021.1108.0.nupkg",
+        "sha512": "404eaa4e9276c6082e1bf69a10dead9e55a24d275c3f3a37186c094ae96939666456650c6c7eac7940f2ac6fbc9b3c463f92c36cd22732b9d10cf5974c25bdfd",
         "dest": "nuget-sources",
         "dest-filename": "ppy.osu.framework.2021.1026.0.nupkg"
     },
@@ -1310,10 +1310,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sentry/3.9.4/sentry.3.9.4.nupkg",
-        "sha512": "8b88a9831b5c60e7c556baa949fcf0cafef93355c1bf22c12e1c582eb05c3a5fd8315fa7de43ae6f9357e0733e4fde3d29299d2a492a760d825d5d13604b490a",
+        "url": "https://api.nuget.org/v3-flatcontainer/sentry/3.10.0/sentry.3.10.0.nupkg",
+        "sha512": "d45f0a94dc6043348879b144a63c968e205c39255832f0d873a54c82795c61c0bb04ebdd0093c706590337dd701e168857aee852c67ae6b7aaa7ff6eb11dd6bc",
         "dest": "nuget-sources",
-        "dest-filename": "sentry.3.9.4.nupkg"
+        "dest-filename": "sentry.3.10.0.nupkg"
     },
     {
         "type": "file",
@@ -1328,6 +1328,13 @@
         "sha512": "c7412fc1f4278667ab744f9259468b2214db7f74bb42eb0523b4c6c6cbbde64f442811676daba55fc5adc149c946275bda25932f0aad791341e1c0955aba1968",
         "dest": "nuget-sources",
         "dest-filename": "sharpcompress.0.29.0.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/sharpcompress/0.30.0/sharpcompress.0.30.0.nupkg",
+        "sha512": "06476f0ed4a9b110811e5590f48f5b1d2fe5b5a17f1b9325674145cdea03c1e7fbe4b742d304bf9250b0d43dc22ddd92ffb0839fd21f7b31dd1018bfa22eb31e",
+        "dest": "nuget-sources",
+        "dest-filename": "sharpcompress.0.30.0.nupkg"
     },
     {
         "type": "file",

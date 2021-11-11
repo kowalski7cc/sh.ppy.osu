@@ -13,6 +13,7 @@ finish-args:
   - --socket=wayland
   - --share=network
   - --device=all
+  - --device=dri
   - --socket=pulseaudio
   - --filesystem=xdg-music:ro
   - --filesystem=xdg-download:ro
@@ -21,12 +22,13 @@ finish-args:
   - --filesystem=~/.wine:ro
   - --filesystem=~/.osu:ro
   - --env=DOTNET_CLI_TELEMETRY_OPTOUT=true
+  - --env=SDL_VIDEODRIVER=wayland
 command: osu-lazer
 modules:
   - name: osu-lazer
     buildsystem: simple
     build-commands:
-      - dotnet publish osu.Desktop --source ./nuget-sources --framework net5.0 --configuration Release --runtime $RUNTIME --self-contained false --output /app/opt/ppy/osu-lazer /p:Version=2021.1028.0
+      - dotnet publish osu.Desktop --source ./nuget-sources --framework net5.0 --configuration Release --runtime $RUNTIME --self-contained false --output /app/opt/ppy/osu-lazer /p:Version=2021.1111.0
       - install.sh
       - install -D -m 755 osu-lazer /app/bin/osu-lazer
         # app icons
@@ -65,8 +67,8 @@ modules:
     sources:
       - nuget.json
       - type: git
-        url: https://github.com/peppy/osu.git
-        commit: a9208838a9dcff71a73fd0ab103f1251a2817d3e
+        url: https://github.com/ppy/osu.git
+        tag: tags/2021.1111.0
       - type: file
         path: osu-lazer
       - type: file
@@ -97,5 +99,3 @@ modules:
         path: x-osu.xml
       - type: file
         path: sh.ppy.osulazer.appdata.xml
-      - type: patch
-        path: updater.patch
