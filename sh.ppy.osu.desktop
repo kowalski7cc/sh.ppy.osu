@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
 Version=1.1
-Name=osu!lazer
-Icon=sh.ppy.osulazer
+Name=osu!
+Icon=sh.ppy.osu
 MimeType=application/x-osu-beatmap;application/x-osu-skin;application/x-rar;x-scheme-handler/osu
 Comment=A free-to-win rhythm game. Rhythm is just a *click* away!
 Exec=osu-lazer %F
@@ -11,5 +11,5 @@ Categories=Game;
 Keywords=circles;beat;
 Keywords[ru]=осу;кружочки;
 X-Desktop-File-Install-Version=0.24
-StartupWMClass=osu!lazer
+StartupWMClass=osu!
 StartupNotify=true

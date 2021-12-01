@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
-    <id>sh.ppy.osulazer</id>
-    <name>osu!lazer</name>
+    <id>sh.ppy.osu</id>
+    <name>osu!</name>
     <metadata_license>CC0-1.0</metadata_license>
     <summary>A free-to-win rhythm game. Rhythm is just a *click* away!</summary>
     <summary xml:lang="ru">Популярная ритм-игра с открытым исходным кодом</summary>
@@ -65,12 +65,12 @@
     <metadata>
         <value key="GnomeSoftware::popular-background">https://raw.githubusercontent.com/flathub/sh.ppy.osulazer/master/screenshots/osulazer-banner.png</value>
     </metadata>
-    <launchable type="desktop-id">sh.ppy.osulazer.desktop</launchable>
+    <launchable type="desktop-id">sh.ppy.osu.desktop</launchable>
     <project_license>MIT</project_license>
     <!-- Assets used by osu! is licensed under CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode) -->
     <developer_name>ppy Pty Ltd</developer_name>
     <releases>
-        <release version="2021.1028.0" date="2021-10-28"/>
+        <release version="2021.1127.0" date="2021-11-27" />
     </releases>
     <content_rating type="oars-1.0">
         <content_attribute id="violence-cartoon">none</content_attribute>
