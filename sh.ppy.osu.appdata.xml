@@ -80,7 +80,7 @@
         </screenshot>
     </screenshots>
     <metadata>
-        <value key="GnomeSoftware::popular-background">https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osulazer-banner.png</value>
+        <value key="GnomeSoftware::popular-background">https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osu-banner.jpg</value>
     </metadata>
     <launchable type="desktop-id">sh.ppy.osu.desktop</launchable>
     <project_license>MIT</project_license>

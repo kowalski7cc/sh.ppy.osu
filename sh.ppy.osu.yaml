@@ -127,13 +127,13 @@ modules:
       - type: file
         path: osu
       - type: file
-        path: icons/lazer-512.png
+        path: icons/osu-512.png
       - type: file
-        path: icons/lazer-256.png
+        path: icons/osu-256.png
       - type: file
-        path: icons/lazer-128.png
+        path: icons/osu-128.png
       - type: file
-        path: icons/lazer-64.png
+        path: icons/osu-64.png
       - type: file
         path: icons/mime-512.png
       - type: file
