@@ -28,7 +28,7 @@ modules:
   - name: osu
     buildsystem: simple
     build-commands:
-      - dotnet publish osu.Desktop --source ./nuget-sources --framework net5.0 --configuration Release --runtime $RUNTIME --self-contained false --output /app/opt/ppy/osu /p:Version=2021.1127.0
+      - dotnet publish osu.Desktop --source ./nuget-sources --framework net5.0 --configuration Release --runtime $RUNTIME --self-contained false --output /app/opt/ppy/osu #/p:Version=2021.1127.0
       - install.sh
       - install -D -m 755 osu /app/bin/osu
         # app icons
@@ -68,7 +68,7 @@ modules:
       - nuget.json
       - type: git
         url: https://github.com/ppy/osu.git
-        tag: tags/2021.1127.0
+        #tag: tags/2021.1127.0
       - type: file
         path: osu
       - type: file
