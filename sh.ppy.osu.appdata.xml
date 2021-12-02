@@ -25,6 +25,7 @@
     <url type="homepage">https://osu.ppy.sh</url>
     <categories>
         <category>Game</category>
+        <category>ArcadeGame</category>
     </categories>
     <mimetypes>
         <mimetype>application/x-osu-beatmap</mimetype>
@@ -43,33 +44,39 @@
     <screenshots>
         <screenshot type="default">
             <caption>Main screen</caption>
+            <caption xml:lang="it">Schermata principale</caption>
+            <caption xml:lang="es">Pantalla principal</caption>
+            <caption xml:lang="fr">Écran principal</caption>
+            <caption xml:lang="de">Hauptbildschirm</caption>
+            <caption xml:lang="hu">Fő képernyő</caption>
+            <caption xml:lang="pl">Główny ekran</caption>
             <caption xml:lang="ru">Главное меню</caption>
-            <image>https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osulazer1.png</image>
+            <image>https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osu-titlescreen.jpg</image>
         </screenshot>
         <screenshot>
             <caption>Map select page</caption>
             <caption xml:lang="ru">Выбор карт</caption>
-            <image>https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osulazer2.png</image>
+            <image>https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osu-maps.jpg</image>
         </screenshot>
         <screenshot>
             <caption>osu! gameplay</caption>
             <caption xml:lang="ru">Оригинальный режим игры</caption>
-            <image>https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osulazer3.png</image>
+            <image>https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osu-osu.jpg</image>
         </screenshot>
         <screenshot>
             <caption>osu!taiko gameplay</caption>
             <caption xml:lang="ru">Режим игры osu!taiko</caption>
-            <image>https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osulazer4.png</image>
+            <image>https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osu-taiko.jpg</image>
         </screenshot>
         <screenshot>
             <caption>osu!catch gameplay</caption>
             <caption xml:lang="ru">Режим игры osu!catch</caption>
-            <image>https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osulazer5.png</image>
+            <image>https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osu-catch.jpg</image>
         </screenshot>
         <screenshot>
             <caption>osu!mania gameplay</caption>
             <caption xml:lang="ru">Режим игры osu!mania</caption>
-            <image>https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osulazer6.png</image>
+            <image>https://raw.githubusercontent.com/kowalski7cc/sh.ppy.osu/master/screenshots/osu-mania.jpg</image>
         </screenshot>
     </screenshots>
     <metadata>
